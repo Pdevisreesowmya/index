@@ -1,0 +1,190 @@
+*{
+	margin:0;
+}
+.main{
+	height:100vh;
+	background-color: black;
+	background: url(https://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/5dcb2d0669b294381f8ffb16/619e7c8606c2b2230c1c0810/1710437898104/?format=1500w);
+	background-size: cover;
+}
+.navbar{
+	display: flex;
+}
+.logo{
+	padding-top: 60px;
+	padding-left: 100px;
+}
+.yt{
+	color: orange;
+	padding-top: 30px;
+	padding-left: 400px;
+	font-size: 60px;
+	cursor:pointer;
+}
+.list{
+	padding-top: 60px;
+	padding-left:10px;
+}
+ul li{
+	color: deepskyblue;
+	list-style: none;
+	padding-right: 30px;
+}
+ul li a{
+	color:whitesmoke;
+	text-decoration: none;
+	font-size: 25px;
+	transition: 0.7s ease-in-out;
+}
+ul li a:hover{
+	color: hotpink;
+}
+ul{
+	display: flex;
+}
+.content{
+	width:1000px;
+}
+.content h3{
+	color:white;
+	font-size: 30px;
+	padding-left: 500px;
+	padding-top: 20px;
+}
+.delicious{
+	color: orange;
+	font-size: 35px;
+}
+.para{
+	color:white;
+	padding-top: 20px;
+	padding-left: 500px;
+	letter-spacing: 2px;
+	font-family: cursive;
+}
+.buttondiv{
+	padding-top: 20px;
+
+}
+.buttondiv a{
+	text-decoration: none;
+	color: black;
+	font-size: 10px;
+	font-weight: bold;
+	width: 300px;
+	height: 400px;
+
+}
+.button{
+	padding: 10px 20px;
+	margin-left: 500px;
+	border-radius: 10px;
+	background-color: orange;
+	transition: 0.5s ease-in-out;	
+	cursor: pointer;
+}
+.button:hover{
+	background-color: pink;
+	color:orange;
+}
+.form span{
+	color: saddlebrown;
+	background-color: ghostwhite;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 10px 20px;
+	background-color: transparent;
+}
+form input{
+	height: 20px;
+	width: 200px;
+	padding-top: 4px;
+	font-size: 15px;
+	color: whitesmoke;
+	font-family: calibri;
+	margin-top: 15px;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	background-color: transparent;
+}
+.form{
+	position: absolute;
+	top: 180px;
+	left: 800px;
+}form input:focus{
+
+	outline: none;
+}
+.form button h2{
+	font-weight: bold;
+	font-size: 10px;
+	color: blue;
+	
+}
+.form button:hover{
+	background-color: skyblue;
+	color: white;
+}
+.form button{
+	padding: 10px 20px;
+	border-radius: 10px;
+	margin-top: 4px;
+	margin-left: 5px;
+	transition: 0.6s ease-in-out;
+	cursor: pointer;
+}
+.form p{
+	color: whitesmoke;
+	margin-left: 10px;
+	font-size: 15px;
+}
+.search{
+	width: 150px;
+	margin-top: 10px;
+}
+.login{
+	padding-left: 100px;
+	padding-top:20px;
+}
+.but{
+	display: flex;
+}
+.log{
+	padding: 10px 20px;
+	margin-left: 80px;
+	border-radius: 10px;
+	background-color: orange;
+	cursor: pointer;
+	transition: 0.5s ease-in-out;	
+}
+.log:hover{
+	background-color: pink;
+	color:orange;
+}
+.log a{
+	text-decoration: none;
+	color: black;
+	font-size: 10px;
+	font-weight: bold;
+	width: 300px;
+	height: 400px;
+
+}
+.search{
+	width: 300px;
+	font-size: 20px;
+	margin-top: 60PX;
+}
+.sear{
+	padding: 10px 20px;
+	margin-left: 50px;
+	border-radius: 10px;
+	background-color: orange;
+	transition: 0.5s ease-in-out;	
+	cursor: pointer;
+	margin-top: 60PX;
+}
+.sear:hover{
+	background-color: pink;
+	color:orange;

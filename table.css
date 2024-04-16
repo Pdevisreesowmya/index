@@ -1,0 +1,28 @@
+.main{
+	height:100vh;
+	background-color: black;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF0Pcjyv33S2Kk-_WhuspdTniqOv-sUgc-_2zGvx1eQ&s);
+	background-size: cover;
+}
+h2{
+ font-size: 40px;
+ padding-left:500px;
+ padding-top:50px;
+}
+h3{
+	padding-left: 700px;
+	padding-top: 30px;
+}
+fieldset{
+	margin-left:400px;
+	margin-top: 70px;
+	margin-right:200px;
+}
+legend{
+	padding:10px;
+}
+table{
+	font-size: 30px;
+	padding-left: 200px;
+}
+
